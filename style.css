@@ -1,0 +1,25 @@
+.container{
+    border-radius: 20px; 
+    padding: 50px;
+    max-width: 250px;
+    background-color: red;
+    margin: auto;
+    margin-top: 50px;    
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+input{
+    margin: 15px;
+    display: block;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: white;
+}
